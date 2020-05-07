@@ -1,7 +1,0 @@
-Key.shiftK'K'e'e'y'y'Key.shift_'_'Key.shiftL'L'o'o'g'g'g'g'e'e'r'r'Key.shiftP'P'y'y'
-Key.backspacer'r'o'o'g'g'r'r'a'a'm'm'
-Key.spacet't'h'h'e'e'
-Key.spacel'l'o'o'g'g's's'
-Key.spacek'k'e'e'y'y's's'
-Key.spacef'f'r'r'o'o'm'm'
-Key.spacek'k'e'e'y'y'b'b'o'o'a'a'r'r'd'd's's'p'p'y'y'Key.entert't'h'h'a'a't't'Key.ctrl
